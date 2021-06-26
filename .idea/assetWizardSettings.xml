@@ -24,7 +24,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="/private/var/folders/sj/xbyn3msj0ls4q_83b2cvx2n40000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/ms/ljd0qc4d57bgtwhn73q6h2s00000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -68,7 +68,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="/private/var/folders/sj/xbyn3msj0ls4q_83b2cvx2n40000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/ms/ljd0qc4d57bgtwhn73q6h2s00000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -80,8 +80,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="$PROJECT_DIR$/../../../free-brain-games-cliparts-download-free-clip-art-free-clip-art-mind-thinking-games-png-250_261.png" />
-                                                <entry key="trimmed" value="true" />
+                                                <entry key="imagePath" value="$USER_HOME$/Downloads/psy-gangnam-style-png-5-png-image-gangnam-style-png-320_320.png" />
+                                                <entry key="scalingPercent" value="66" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -113,7 +113,8 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="theme1" />
+                                      <entry key="backgroundColor" value="2526ff" />
+                                      <entry key="outputName" value="gagnam" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -130,7 +131,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="/private/var/folders/sj/xbyn3msj0ls4q_83b2cvx2n40000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/ms/ljd0qc4d57bgtwhn73q6h2s00000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -174,7 +175,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="/private/var/folders/sj/xbyn3msj0ls4q_83b2cvx2n40000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/ms/ljd0qc4d57bgtwhn73q6h2s00000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -238,7 +239,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="/private/var/folders/sj/xbyn3msj0ls4q_83b2cvx2n40000gn/T/ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/ms/ljd0qc4d57bgtwhn73q6h2s00000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>

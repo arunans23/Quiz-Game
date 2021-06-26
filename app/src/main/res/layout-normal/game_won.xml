@@ -2,22 +2,33 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
     android:background="@color/backgroundColor">
 
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:src="@drawable/congomen"
-        android:layout_margin="20dp"/>
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_marginTop="200dp"
+        android:src="@mipmap/gagnam_foreground" />
 
-    <info.hoang8f.widget.FButton
+    <TextView
+        android:id="@+id/congrats"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/play_again"
-        android:textColor="@color/white"
+        android:text="@string/congrats"
+        android:gravity="center"
+        android:textColor="#D1AF09"
+        android:textSize="40sp"/>
+
+    <info.hoang8f.widget.FButton
         android:id="@+id/platygaianbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="15dp"
         android:onClick="PlayAgain"
-        />
+        android:text="@string/play_again"
+        android:textColor="@color/white" />
 </LinearLayout>

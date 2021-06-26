@@ -37,8 +37,9 @@
 
     <info.hoang8f.widget.FButton
         android:id="@+id/quit"
-        fbutton:buttonColor="@color/lightGreen"
         android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
         android:text="@string/quit"
-        android:layout_height="wrap_content" />
+        fbutton:buttonColor="@color/lightGreen" />
 </LinearLayout>
